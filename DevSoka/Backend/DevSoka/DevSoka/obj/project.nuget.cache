@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hw/LaCYk/0tDcQ1Bcbe0Lx73Y1m2NPldM3/pb0RB4xcrahIwh/osE9XWAT3Evz4GJ49dlageV7SL4K/6bD8Org==",
+  "success": true,
+  "projectFilePath": "C:\\GIT\\Estudos\\DevSoka\\Backend\\DevSoka\\DevSoka\\DevSoka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
