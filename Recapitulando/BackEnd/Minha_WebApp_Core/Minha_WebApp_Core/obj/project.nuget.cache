@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qAbGs2T6CZZFv9z05EKW6Yw6VBDcpQkJyuzgt5/UCQJu0NrRmtdr2r9Q8jhF8I6E+X5/xGu4OhOfynGcnUGdIw==",
+  "success": true,
+  "projectFilePath": "C:\\GIT\\Estudos\\Recapitulando\\BackEnd\\Minha_WebApp_Core\\Minha_WebApp_Core\\Minha_WebApp_Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
